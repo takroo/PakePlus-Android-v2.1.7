@@ -1,0 +1,1 @@
+import{g as u,p as a,d as o,a as e}from"./Request-Drn82gJH.js";const m=(r,t)=>a("/album",{name:r,description:t}),p=(r,t,s)=>e("/album",{albumId:r,name:t,description:s}),b=r=>o("/album",{albumId:r}),n=()=>u("album"),A=r=>e("/album/order",{orders:r});export{m as c,b as d,n as g,A as o,p as u};
